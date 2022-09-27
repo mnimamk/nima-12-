@@ -1,0 +1,48 @@
+body{
+	background-image: url(C:/Users/Nima/Pictures/Saved Pictures/char.jpg) no-repeat center center fixed;  
+	background-size: cover;
+}
+
+h1{
+	font-size: 25px;
+	color: darkgoldenrod;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+p1{
+	border-left:3px dashed darkred ;
+	border-bottom: 3px dashed darkred;
+	width: 100px;
+	font-size: 20px;
+    text-align: center;
+    padding-left: 5px;
+    margin-left: 40px;
+    margin-top: 40px;
+    color: darkslateblue;
+}
+
+
+.cl1{
+	background-color: deeppink;
+    border-left:5px double orangered;
+    border-bottom: 5px double orangered;
+    width: 200px;
+    margin-left: 45px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+ }
+
+.button{
+   margin-top: 550px;
+   margin-left: 700px;
+   margin-bottom: 50px;
+   background-color: seagreen;
+   padding: 5px 5px 5px 5px;
+   border-radius: 200px;
+}
+
+.cl2{
+	font-size: 25px;
+	color: lightblue;
+}

@@ -1,0 +1,58 @@
+
+body, html{
+    height: 100%;
+    width: 100%;
+    font-family: Montserrat;
+    background-image: url("C:/Users/Nima/Pictures/Saved Pictures/coolstuff.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container{
+    height: 100%;
+    width: 100%;
+    align-items: center;
+}
+
+
+h1{
+    font-size: 3m;
+    color: orangered;
+    transform: all 4s;
+    border-left: 3px solid darkmagenta;
+    border-bottom: 3px solid darkmagenta;
+    margin: auto;
+}
+
+h1{
+    transition: scale3d(1.1,1.1,1.1);
+}
+
+.space1{
+    height: 20px;
+}
+
+hr{
+    border-color: darkorchid;
+    border-width: 3px;
+    width: 10%;
+    margin: auto;
+}
+
+.space{
+    height: 20px;
+}
+
+.button{
+    background-color: seagreen;
+    border-radius: 200px;
+}
+
+
+.button:hover {
+    background-color: seashell;
+}
+
+.cl1{
+    font-size: 15px;
+    color: darkseagreen;
+}
